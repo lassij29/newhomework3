@@ -1,0 +1,26 @@
+<!DOCtype hytml>
+<html lang="en">
+<Header>
+    <h1>All About Isiah Lassiter</h1>
+    <link rel="icon" href="favicon.png">
+</Header>  
+<p>
+    Link to <a href="https://pinchandswirl.com/carne-asada-recipe/">
+   A recipe for my favorite food, Carne Asada. </a>.
+</p>  
+<h2>My Hobbies</h2>
+<ul>
+    <li>Reading</li>
+    <li>Playing Soccer</li>
+    <li>Binging Tv</li>
+</ul>
+<h2>My favorite shows of 2024</h2>
+<ol>
+    <li>The Penguin</li>
+    <li>Monsters: The Lyle & Erik Menendez Story</li>
+    <li>Cobra Kai</li>
+</ol>
+<p>One of my Favorite Soccer Moments</p>
+<img src="https://cdn.vox-cdn.com/thumbor/DFrrJpEXH4ZmV12tRBOcB-ruve4=/0x22:4182x2810/1200x800/filters:focal(0x22:4182x2810)/cdn.vox-cdn.com/uploads/chorus_image/image/50170969/GettyImages-102811165.0.jpg" alt="Soccer Celabration">
+<p>🥰</p>
+</html>
